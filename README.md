@@ -1,0 +1,1 @@
+Guessing game from Rust docs.
